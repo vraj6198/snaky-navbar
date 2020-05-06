@@ -1,2 +1,2 @@
 # snaky-navbar
-snake navigation Bar
+snaky navigation Bar
